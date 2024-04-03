@@ -19,7 +19,7 @@
 /**
 
 * @project_name : SIGMA-MD
-* @Developer : Maher-Zubair
+* @Developer : Wilfried Mbida
 * @Version : v.1.4.9
 * @license : Apache-2.0
 
@@ -57,7 +57,7 @@ global.website   = 'https://maher-zubair.tech' ;
 
 
 //===========================[COMPULSORY VARIABLES]================================
-global.owner = process.env.OWNER_NUMBER  || '923466319114' ;  // ADD YOUR NUMBER WITHOUT +
+global.owner = process.env.OWNER_NUMBER  || '237678507431' ;  // ADD YOUR NUMBER WITHOUT +
 global.mongodb = process.env.MONGODB_URI || "" ;            // PUT MONGODB KEY HERE, WITHOUT MONGODB YOUR BOT WILL NOT RUN
 global.timezone  = process.env.TIME_ZONE || 'Asia/Karachi' // ADD CORRECT TIMEZONE OR LEAVE IT SAME , OTHERWISE YOU GET ERROS
 //=================================================================================
